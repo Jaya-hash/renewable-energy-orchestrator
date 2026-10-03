@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+streamlit
+python-dotenv
+matplotlib
+google-genai
+# Only if you use another LLM provider (set PROVIDER in llm.py):
+# anthropic
+# openai
